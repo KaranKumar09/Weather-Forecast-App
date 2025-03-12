@@ -1,8 +1,11 @@
 website link:https://weather-forecast-app-green.vercel.app/
 
 Weather Forecast App
+
 Overview
+
 The Weather Forecast App is a React-based application that provides real-time weather updates for any location worldwide. It fetches weather data from the OpenWeather API and displays temperature, humidity, wind speed, and weather conditions in an interactive and user-friendly interface.
+
 Features
 Real-time Weather Data: Get up-to-date weather details for any city.
 Search Functionality: Enter a city name to retrieve weather information.
